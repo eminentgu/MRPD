@@ -14,7 +14,7 @@ otherwise pls choose the model you desire
 ### 1. Data Preparation
 
 -   **Datasets:** Please download the ModelNet40 and ScanObjectNN datasets. You may need to specify the path to your datasets in the training/testing scripts.
--   **Attack Data Generation:** For a fair and direct comparison with prior work, our adversarial attack generation protocol strictly follows the public benchmark established by methods like **AOF** ([Adversarial Voxel-based Optimization Framework](https://github.com/Wuziyi616/AOF)). We utilize their methodologies for generating all adversarial samples.
+-   **Attack Data Generation:** For a fair and direct comparison with prior work, our adversarial attack generation protocol strictly follows the public benchmark established by methods like **AOF** (https://github.com/code-roamer/AOF). We utilize their methodologies for generating all adversarial samples.
     -   Our script `test.py` includes functionalities for generating attack data.
     -   We have only made minor adjustments to the data format to align with our processing pipeline; the core attack logic remains identical to ensure fairness.
 
