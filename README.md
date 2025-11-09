@@ -1,4 +1,9 @@
 # Multimodal Robust Prompt Distillation for 3D Point Cloud Models
+Official Code for Papaer in **AAAI2026 Multimodal Robust Prompt Distillation for 3D Point Cloud Models**
+
+Cheers! We have been accepted!
+
+Will update CKPTs soon, You can directly contact XiangGu2003@icloud.com XiangGu2003@connect.hku.hk if you have code-problems or just open issues here. I am glad to help. Meanwhile i am going to polish and update a more re-produceable version.
 
 This repository contains the official PyTorch implementation for the experiments in our paper, "Multimodal Robust Prompt Distillation for 3D Point Cloud Models".
 
